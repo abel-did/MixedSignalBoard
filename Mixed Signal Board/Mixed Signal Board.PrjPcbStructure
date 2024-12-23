@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=[1] - Schematic Blocks.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=[1] - Schematic Blocks.SchDoc|FileName=[2] - Power Budget.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=[1] - Schematic Blocks.SchDoc|FileName=[3] - STM32F103 Debugger.SchDoc|SheetNumber=3
